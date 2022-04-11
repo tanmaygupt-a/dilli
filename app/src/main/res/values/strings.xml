@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dilli</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="india_gate">India Gate</string>
+    <string name="alltime_open">24 hours a day, seven days a week</string>
+    <string name="sunrise_to_sunset">From sunrise to sunset</string>
+</resources>
